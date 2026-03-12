@@ -1,4 +1,4 @@
-# 🎲 Dashboard de Análise de Salários na Área de Dados
+# 🎲 Dashboard de Análise na Área de Dados
 
 Um painel interativo construído com Python e Streamlit para explorar, visualizar e analisar tendências salariais globais de profissionais da área de dados. 
 
